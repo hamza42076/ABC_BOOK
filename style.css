@@ -27,6 +27,10 @@ nav{
     position: fixed;
     z-index: 9999;    
 }
+ul{
+    display: flex;
+    gap: 20px;
+}
 ul>a{
     font-size: 40px;
     gap: 20px; 
